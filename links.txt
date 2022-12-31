@@ -1,14 +1,20 @@
 #links de repositorios con thumbnails
 
-1: UPC
-https://repositorioacademico.upc.edu.pe/handle/10757/621395
+1: UPC : 
+	Tesis para optar al grado de Ingeniero de Sistemas (pregrado) en UPC
+	Thumbnail: Si
+	Num_tesis: 395
+	https://repositorioacademico.upc.edu.pe/handle/10757/621395
 
-2: San Marcos
-https://cybertesis.unmsm.edu.pe/handle/20.500.12672/38
+2: Católica : 
+	Tesis para optar al grado de Magíster en Estadística (postgrado) en PUCP
+	Thumbnail: Si
+	Num_tesis: 61
+	https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/757
 
-3: Catolica
-https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/757
-
-4 Esan
-https://repositorio.esan.edu.pe/handle/20.500.12640/1814
+3: Esan : 	
+	Tesis para optar al grado de Magíster en Dirección de Tecnologías de la Información (postgrado) en ESAN
+	Thumbnail: Si
+	Num_tesis: 89
+	https://repositorio.esan.edu.pe/handle/20.500.12640/1814
 
